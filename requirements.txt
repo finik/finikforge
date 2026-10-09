@@ -1,0 +1,6 @@
+cairosvg
+fonttools
+opencv-python
+numpy
+pillow
+scipy

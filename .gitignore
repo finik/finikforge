@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+# regenerated build output goes to ./output ; it IS committed here as the current release.
+# to treat it as disposable build output instead, uncomment:
+# output_*sided/
